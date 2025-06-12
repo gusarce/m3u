@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:60, Video 1 - YouTube
+https://www.youtube.com/embed/NBmIkIpoer8
+#EXTINF:120, Video 2 - ok.ru
+https://ok.ru/videoembed/1392690399817
+#EXTINF:180, Video 3 - Google Drive
+https://drive.google.com/uc?id=15hA-yClCguegBaiChfoLzXtDCHcNLBzg&export=download
