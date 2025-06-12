@@ -1,5 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Canal 24/7" group-title="Simulados", Canal simulado
 #https://github.com/gusarce/m3u/blob/main/playlist.m3u8
-https://raw.githubusercontent.com/gusarce/m3u/main/playlist.m3u8
+#https://raw.githubusercontent.com/gusarce/m3u/main/playlist.m3u8
+https://github.com/gusarce/m3u/blob/main/playlist.m3u8
 
