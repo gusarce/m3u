@@ -8,8 +8,6 @@
 #EXTINF:180, Video 3 - Google Drive
 #https://drive.google.com/uc?id=15hA-yClCguegBaiChfoLzXtDCHcNLBzg&export=download
 #https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4
-
-#EXTM3U
 #EXTINF:0, Canal 1
 http://animezonetv.net/hls/stream.m3u8
 #EXTINF:0, Canal 2
